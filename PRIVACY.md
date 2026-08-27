@@ -1,8 +1,8 @@
-# GridFix Privacy Policy
+# MGRS GPS Privacy Policy
 
-**Effective date:** August 25, 2026
+**Effective date:** August 27, 2026
 
-GridFix ("the app") is an MGRS land-navigation and map-plotting app for Android, published by the GridFix developer ("we", "us"). This policy explains what information the app handles and what leaves your device. The short version: **your data stays on your phone. We run no servers, require no account, and collect nothing.**
+MGRS GPS ("the app," formerly GridFix) is an MGRS land-navigation and map-plotting app for Android, published by an independent developer ("we", "us"). This policy explains what information the app handles and what leaves your device. The short version: **your data stays on your phone. We run no servers, require no account, and collect nothing.**
 
 ## Information the app does NOT collect
 
@@ -44,4 +44,4 @@ If a future version of the app changes what data is handled (for example, an opt
 Questions about this policy: **ozwash1776@gmail.com**
 
 ---
-*GridFix is a training and recreation aid, not a primary means of navigation. Verify positions against your issued equipment and current maps.*
+*MGRS GPS is a training and recreation aid, not a primary means of navigation. Verify positions against your issued equipment and current maps.*
