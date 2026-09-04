@@ -1,6 +1,10 @@
 # MGRS GPS Privacy Policy
 
-**Effective date:** August 27, 2026
+**Effective date:** September 4, 2026
+
+<!-- Covers MGRS GPS 0.9.29 and later. -->
+
+
 
 MGRS GPS ("the app," formerly GridFix) is an MGRS land-navigation and map-plotting app for Android, published by an independent developer ("we", "us"). This policy explains what information the app handles and what leaves your device. The short version: **your data stays on your phone. We run no servers, require no account, and collect nothing.**
 
@@ -21,7 +25,13 @@ Location permission is optional for browsing maps; navigation features require i
 
 ## Network use (map data)
 
-To display maps and terrain, the app downloads map tiles and elevation data directly from third-party public map services, currently including OpenStreetMap, OpenTopoMap, Esri (satellite imagery), the U.S. Geological Survey, and the AWS Terrain Tiles open dataset. When the app fetches a tile, that service receives a standard web request — your IP address and which map tile was requested — governed by that service's own privacy policy. This is the same information any map website receives when you use it. Downloaded tiles and elevation data are cached on your device so previously viewed areas work offline. Maps you import yourself (MBTiles files) involve no network use at all.
+To display maps and terrain, the app downloads map tiles and elevation data directly from third-party public map services, currently including MapTiler (the default street, topographic and satellite basemaps), OpenStreetMap, OpenTopoMap, Esri (satellite imagery), the U.S. Geological Survey, and the AWS Terrain Tiles open dataset. When the app fetches a tile, that service receives a standard web request — your IP address and which map tile was requested — governed by that service's own privacy policy. This is the same information any map website receives when you use it. Downloaded tiles and elevation data are cached on your device so previously viewed areas work offline. Maps you import yourself (MBTiles files) involve no network use at all.
+
+## If the app crashes
+
+If the app closes unexpectedly, it saves a technical report — the error, the app version, your device model and Android version — to its private storage on your phone, and asks you the next time you open it whether you want to send it. **Nothing is sent unless you tap Send**, and sending it opens your own email app so you can see exactly what is going and add what you were doing at the time. If you tap Discard, the report is deleted. We run no crash-reporting service.
+
+Separately, Google may report crashes to us through Google Play's own diagnostics if you have turned on sharing usage and diagnostics data in your Android settings. That is a Google feature, not ours, and you control it in your device settings.
 
 ## Files you create and share
 
