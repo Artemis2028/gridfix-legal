@@ -4,7 +4,7 @@
 
 These terms are an agreement between you and the independent developer of MGRS GPS ("the app," formerly GridFix), an MGRS land-navigation and map-plotting app for Android. By installing or using the app you agree to them. If you do not agree, do not use the app.
 
-The short version: **the app is a training and recreation aid, it is sold as-is, your data is yours and stays on your phone, and subscriptions are handled entirely by Google Play.**
+The short version: **the app is a training and recreation aid, it requires a paid subscription to use, it is sold as-is, your data is yours and stays on your phone, and billing is handled entirely by Google Play.**
 
 ## 1. What the app is — and is not
 
@@ -22,14 +22,16 @@ The app is distributed through Google Play and your use of it is also subject to
 
 ## 3. MGRS GPS Pro subscription
 
-The core of the app is free. Some features — offline map download and imported MBTiles maps, the MGRS grid overlay, terrain tools (line of sight, viewshed, contours, elevation) and export formats — are part of the **MGRS GPS Pro** subscription.
+**MGRS GPS requires an active MGRS GPS Pro subscription to use.** The app is free to download and may offer a free trial, but once any trial ends a subscription is needed to open it. There is no free tier and no one-off purchase.
+
+If your subscription lapses, nothing you created is deleted — your waypoints, tracks and graphics stay in the app's storage on your device — but the app cannot be opened until you subscribe again, so you will not be able to reach or export them in the meantime. If you want a copy you can keep independently of the subscription, take a backup while your subscription is active (Settings → Backup).
 
 - **Billing is entirely through Google Play.** We never see or handle your payment details. The price, billing period and any free-trial length are those shown in Google Play at the time you subscribe; they may differ by country and may change for future billing periods, and Google will tell you before a price change takes effect.
 - **Subscriptions renew automatically** at the end of each billing period until you cancel.
-- **Cancel any time** in Google Play (Play Store → your profile → Payments and subscriptions → Subscriptions). Cancelling stops the next renewal; you keep Pro features until the end of the period you have already paid for.
+- **Cancel any time** in Google Play (Play Store → your profile → Payments and subscriptions → Subscriptions). Cancelling stops the next renewal; you keep access until the end of the period you have already paid for, after which the app can no longer be opened.
 - **Free trials:** if a trial is offered on the plan you choose, nothing is charged if you cancel before the trial ends. Trial eligibility is determined by Google, not by us.
 - **Refunds** are handled under Google Play's refund policy and the consumer law of your country. Write to the contact address below and we will help where we can, but the refund decision is Google's.
-- **Entitlement is cached on your device** so Pro keeps working offline. If Google Play reports that a subscription has lapsed, expired, been refunded or been charged back, the Pro features stop.
+- **Your subscription is cached on your device** so the app keeps working offline, in the field, without a signal — that is the point of it. If Google Play reports that a subscription has lapsed, expired, been refunded or been charged back, access ends.
 
 ## 4. Your data and the files you create
 
@@ -65,7 +67,7 @@ You may stop using the app at any time by uninstalling it. We may suspend or ter
 
 ## 11. Governing law
 
-These terms are governed by the laws of California, USA, without regard to its conflict-of-laws rules, and the courts of that jurisdiction have exclusive jurisdiction, except where the mandatory law of your country of residence gives you the right to bring proceedings elsewhere.
+These terms are governed by the laws of California. USA, without regard to its conflict-of-laws rules, and the courts of that jurisdiction have exclusive jurisdiction, except where the mandatory law of your country of residence gives you the right to bring proceedings elsewhere.
 
 ## 12. Changes to these terms
 
