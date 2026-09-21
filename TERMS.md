@@ -45,7 +45,9 @@ Do not use the app to break the law, to infringe anyone's rights, or in any way 
 
 ## 6. Third-party map data and services
 
-The app requests map, imagery and elevation tiles from third-party services (currently MapTiler, OpenStreetMap, OpenTopoMap, Esri, the U.S. Geological Survey, and the AWS Terrain Tiles open dataset). Those services are operated by others, under their own terms and privacy policies, and may change, rate-limit or withdraw access at any time. Attribution and licence notices for map data, fonts and libraries are shown in the app under Settings → About. We are not responsible for the accuracy, availability or content of third-party data.
+The app requests map, imagery and elevation tiles from third-party services (currently Esri's ArcGIS Location Platform, the U.S. Geological Survey's National Map, and the AWS Terrain Tiles open dataset). Those services are operated by others, under their own terms and privacy policies, and may change, rate-limit or withdraw access at any time. Attribution and licence notices for map data, fonts and libraries are shown in the app under Settings → About. We are not responsible for the accuracy, availability or content of third-party data.
+
+Esri basemaps are provided under the ArcGIS Location Platform Agreement (https://www.esri.com/en-us/legal/terms/location-platform). By using those basemaps in the app you agree to comply with the end-user terms of that agreement: basemap tiles may be viewed only inside the app, may be cached on your device only as the service's caching headers permit, and may not be extracted, redistributed, bulk-downloaded or used to build another product or dataset. The app's "Download visible area" feature is limited to public-domain USGS layers for this reason.
 
 ## 7. Availability and changes
 
